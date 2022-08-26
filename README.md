@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on hail event simulation in the urban tropics coastal area (Surabaya, Indonesia). I will investigate more about the storms development and its dynamics retaled to the local sea breeze and its cloud microphysics over urban area. 
+- 🔭 I’m currently working on hail event simulation in the urban tropics coastal area (Surabaya, Indonesia). I will investigate more about the storms development and its dynamics related to the local sea breeze and its cloud microphysics over urban area. 
 - 🌱 I’m currently learning how to put code in git hub and let them openly and free in public. 
 - 👯 I’m looking to collaborate on those who also interested in hail event thing and modelling to it. 
 - 💬 Ask me about some tropical meteorolgy and numerical weather modellung, especially WRF model. 
